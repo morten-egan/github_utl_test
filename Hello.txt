@@ -1,1 +1,1 @@
-GITHUB_UTL is an awesome package!
+GITHUB_UTL is an awesome package! \nWritten by: Morten Egan http://www.github.com/morten-egan
