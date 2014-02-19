@@ -2,5 +2,5 @@
   CREATE OR REPLACE PROCEDURE "ORACLEGIT"."T1" (ref varchar2)
 as
 begin
-null;
+dbms_output.put_line('Changed');
 end;
